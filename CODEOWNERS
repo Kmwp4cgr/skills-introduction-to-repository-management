@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Kmwp4cgr
+/src/backend/database.py      @Kmwp4cgr
+/src/backend/routers/auth.py  @Kmwp4cgr
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Kmwp4cgr
